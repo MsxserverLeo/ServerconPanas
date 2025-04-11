@@ -77,3 +77,45 @@
 [17:21:40] [User Authenticator #0/INFO]: UUID of player lesign is 9f72d4f5-ded7-3b00-93f9-820fe8978879
 [17:21:42] [Server thread/INFO]: lesign joined the game
 [17:21:42] [Server thread/INFO]: lesign[/127.203.112.148:44847] logged in with entity id 86 at ([world]116.67460456640859, 94.69400141707561, 13.483696726842183)
+[17:31:19] [Server thread/INFO]: lesign lost connection: Disconnected
+[17:31:19] [Server thread/INFO]: lesign left the game
+[17:33:12] [Server thread/INFO]: Stopping the server
+[17:33:12] [Server thread/INFO]: Stopping server
+[17:33:12] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
+[17:33:12] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[17:33:12] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[17:33:12] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
+[17:33:12] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[17:33:12] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[17:33:12] [Server thread/INFO]: Saving players
+[17:33:13] [WebSocketConnectReadThread-83/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[17:33:13] [Server thread/INFO]: Saving worlds
+[17:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 135 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[17:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[17:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[17:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[17:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:33:13] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[17:33:13] [Server thread/INFO]: All I/O tasks to complete
+[17:33:13] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:33:13] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
